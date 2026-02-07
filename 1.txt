@@ -1,1 +1,1 @@
-1.0.2
+1.0.1||Bug fixes for macOS;Lower CPU usage
