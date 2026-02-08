@@ -1,1 +1,2 @@
-1.0.1|Bug fixes for macOS;Lower CPU usage
+1.0.0|Final
+0.9.0|DSP
